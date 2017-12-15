@@ -1,3 +1,4 @@
+n=$1
 echo "enter the value n"
 read n
 s=0
