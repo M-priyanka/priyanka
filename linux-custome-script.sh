@@ -1,5 +1,4 @@
 n=$1
-echo "enter the value n"
 read n
 s=0
 for(($i=0;$i<=n;$i++))
